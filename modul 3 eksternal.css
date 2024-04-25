@@ -1,0 +1,29 @@
+/*
+ background color: #3a4a58
+ Title color : #996633
+ Texs Color : #666666
+ Table alternative color : #e5e8ed
+*/
+
+
+body {
+    background-color: #8fd8d2;
+    color: rgb(3, 2, 8);
+}
+header {
+    background-color: beige;
+    color: rgb(30, 44, 8);
+    padding: 10px 0;
+    text-align: center;
+}
+h1 { font-size: 36pt;}
+h2 {font-size: 36pt;
+     color:rgb(155, 140, 240)}
+h3 {font-size: 36pt;
+    color:rgb(155, 140, 240)}
+h4 {font-size: 36pt;
+    color:rgb(155, 140, 240)}
+h5 {font-size: 36pt;
+    color:rgb(155, 140, 240)}
+p {margin-left: 50px;}
+
